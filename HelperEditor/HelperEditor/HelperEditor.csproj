@@ -107,6 +107,8 @@
     <Content Include="packages.config" />
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Home\EditarPersona.cshtml" />
+    <Content Include="Views\Home\EditarPersona2.cshtml" />
+    <Content Include="Views\Home\EditarPersona3.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
